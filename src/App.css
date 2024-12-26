@@ -1,0 +1,12 @@
+body {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  background-color: #d0cccc;
+}
+.card {
+  margin-top: 40px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+}
